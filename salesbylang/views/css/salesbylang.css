@@ -1,0 +1,30 @@
+.form-group input, .form-group select {
+    margin: 10px;
+    width: 33%;
+    line-height: 2 !important;
+    background: white !important;
+    border: 1px solid #00aff0 !important;
+}
+.form-group {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top:20px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+a {
+    margin-top:20px;
+}
